@@ -1,5 +1,5 @@
 # Análise e Predição de Casos de COVID-19 no Brasil 😷📈
-E aí, galera! 👋 Este projeto é um estudo de caso conduzido como parte dos bootcamps da DIO (Digital Innovation One), com o objetivo de demonstrar habilidades em análise exploratória de dados e previsão de séries temporais. É tipo um "mini-cientista de dados" em ação! 😉
+ Este projeto é um estudo de caso conduzido como parte dos bootcamps da DIO (Digital Innovation One), com o objetivo de demonstrar habilidades em análise exploratória de dados e previsão de séries temporais. É tipo um "mini-cientista de dados" em ação! 😉
 
 O código-fonte utiliza Python para manipular, visualizar e modelar dados relacionados à pandemia de COVID-19 no Brasil. Todas as anotações e comentários presentes no código foram enriquecidos com a ajuda da IA 🤖, buscando oferecer uma explicação clara e super detalhada de cada etapa. Não tem erro! 🚀
 
